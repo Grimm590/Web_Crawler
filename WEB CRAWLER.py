@@ -5,10 +5,6 @@ print()
 print()
 print()
 print()
-print()
-print()
-print()
-print()
 # domain = input("enter domain: ")
 domain = "https://urbanshade.org"
 if domain[:7] != "http://" and domain[:8] != "https://":
